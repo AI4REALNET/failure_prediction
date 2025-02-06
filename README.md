@@ -24,7 +24,7 @@ mkdir -p data
 mv /path/to/downloaded/files/* data/
 
 Ensure that the structure looks like this:
-
+```
 repository_root/
 
 ├── data/
@@ -33,7 +33,7 @@ repository_root/
 │   ├──  full_obs_data_test.npz
 ├── *.py
 ├── README.md
-
+```
 ## 3. Verify the Setup
 
 Before running any scripts, verify that the data exists in the correct location by listing the files:
