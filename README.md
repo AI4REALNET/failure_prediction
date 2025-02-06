@@ -26,6 +26,7 @@ mv /path/to/downloaded/files/* data/
 Ensure that the structure looks like this:
 
 repository_root/
+
 ├── data/
 │   ├──  full_obs_data_train.npz
 │   ├──  full_obs_data_val.npz
