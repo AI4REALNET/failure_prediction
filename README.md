@@ -1,3 +1,32 @@
+# Deliverable D2.1 | Fraunhofer IEE / University of Kassel
+Authors: Mohamed Hassouna
+
+## Description
+The code is composed of multiple code files for training, hyperparameter optimization as well as evaluation of different models.
+
+
+	
+### Training
+- rf_hyperparam.py – Training & Hyperparameter tuning for the Random Forest model.
+- xg_hyperparam.py – Training & Hyperparameter tuning for the XGBoost model.
+- lightgbm_hyperparam.py – Training &Hyperparameter tuning for the LightGBM model.
+- cemc_hyperparam.py – Hyperparameter tuning for the CEMC model.
+- gandalf_hyperparam.py – Hyperparameter tuning for the Gandalf model.
+
+### Evaluation
+- Metrics.ipynb – Jupyter notebook for evaluating model performance of the RF, XGBoost and LightGBM models.
+- cemc_final_metrics.py – Script for computing final evaluation metrics for the CEM model.
+- gandalf_final_metrics.py – Script for computing final evaluation metrics for the Gandalf model.
+
+### Visualization
+- lightgbm.ipynb – Jupyter notebook for the best berforming model (LightGBM) visualizing interesting results.
+
+### Models
+- models/ – Contains the best-performing models.
+	
+A description of how to use the code is provided below.
+
+
 # Dataset Download Instructions
 
 This repository requires the dataset hosted on Zenodo to function properly.
