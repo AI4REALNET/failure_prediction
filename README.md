@@ -31,7 +31,7 @@ A description of how to use the code is provided below.
 
 This repository requires the dataset hosted on Zenodo to function properly.
 
-This dataset was developed for and used in the paper titled "Fault Detection for Agents in Power Grid Topology Optimization: A Comprehensive Analysis" by Malte Lehna, Mohamed Hassouna, Dmitry Degtyar, Sven Tomforde, and Christoph Scholz, presented at the Workshop on Machine Learning for Sustainable Power Systems (ML4SPS), part of ECML PKDD 2024. While the paper is pending formal publication, a preprint version is available on arXiv.
+This dataset was developed for and used in the paper titled "Fault Detection for Agents in Power Grid Topology Optimization: A Comprehensive Analysis" by Malte Lehna, Mohamed Hassouna, Dmitry Degtyar, Sven Tomforde, and Christoph Scholz, presented at the Workshop on Machine Learning for Sustainable Power Systems (ML4SPS), part of ECML PKDD 2024. While the paper is pending formal publication, a preprint version is available on [arXiv](https://arxiv.org/abs/2406.16426).
 
 The dataset contains structured training, validation, and test data comprising failure and survival events observed in transmission power grid simulations. These were generated using Grid2Op with the WCCI 2022 L2RPN environment. Each data instance is labeled with one of four classes, representing survival or impending failure in 1, 3, and 5 timesteps. This dataset was used to train, validate and test machine learning models that predict grid agent failures in topology optimization tasks. 
 
