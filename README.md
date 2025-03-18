@@ -1,4 +1,4 @@
-# Deliverable D2.1 | Fraunhofer IEE / University of Kassel
+# Deliverable D2.1 | University of Kassel / Fraunhofer IEE
 Authors: Mohamed Hassouna
 
 ## Description
