@@ -5,6 +5,12 @@ Authors: Mohamed Hassouna
 The code is composed of multiple code files for training, hyperparameter optimization as well as evaluation of different models.
 
 
+## Install Dependencies
+You can install the required Python libraries using pip.
+
+```
+pip install -r requirements.txt
+```
 	
 ### Training
 - rf_hyperparam.py – Training & Hyperparameter tuning for the Random Forest model.
